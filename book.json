@@ -15,7 +15,7 @@
     "images": "keycloak-images",
     "project": {
       "name": "Keycloak",
-      "version": "2.2.0.Final",
+      "version": "2.2.1.Final",
       "module": "Authorization Services"
     }
   }
